@@ -1,204 +1,56 @@
-# Foundry - An Agent-Run Obsidian Vault
+# Instructions for Claude (and other agents)
 
-This is an autonomous knowledge vault maintained by Claude. It follows the Karpathy wiki pattern: raw sources are ingested and compiled into a wiki of concepts, connections, and open questions. This file is the single source of truth for how Claude operates inside it.
+You are operating inside the **Inter-Asia Pop wiki**, a knowledge vault about Asian media and creative industries — regional and transnational flows, aesthetics, industries, and cultural networks.
 
----
+## Vault state — read this carefully
 
-## Companion vault (optional)
+This vault is in a **hybrid state**:
 
-If you keep a personal vault (a commonplace, Zettelkasten, or notes folder), you can link it alongside this one. The contract:
+- **Active contract:** `SCHEMA.md` at the root. YAML frontmatter. Flat-dir structure (`entities/`, `concepts/`, `genres/`, `movements/`, `regions/`, `timelines/`, `comparisons/`, `queries/`, `raw/`). `index.md` and `log.md` live at the root, not under `wiki/_meta/`.
+- **Reference (not yet applied):** `manifests/MANIFEST.v2-reference.md` — the upgraded Foundry pattern used in sibling vaults (generative-art). Deferred pending a migration decision.
+- **Active regardless of structure:** `manifests/eval.md` — evaluation questions that work against the current flat-dir layout.
 
-- **Your vault** — read-only for Claude. Never write, edit, move, or delete anything there. Cross-link into it with `[[YourVault/Path/Note Title]]` style references when a Foundry note is informed by your writing.
-- **Foundry** — Claude writes, maintains, reorganises. You read, query, and occasionally correct.
+**Do not restructure the vault.** `SCHEMA.md` is authoritative for directory layout and frontmatter. If the user explicitly asks you to migrate to the v2 structure, see `manifests/README.md` for the migration checklist — and confirm before moving a single file.
 
-One-way read, cross-linkable. That's the contract. If you don't have a companion vault, Foundry works fine standalone.
+## Read these first, in this order
 
----
+1. **`SCHEMA.md`** (root) — authoritative governance doc for this vault's current structure. Domain scope, frontmatter format, tag taxonomy, page thresholds, update policy.
+2. **`index.md`** (root) — catalog of all pages. Read this before answering any query or deciding whether a new page is needed.
+3. **`log.md`** (root) — chronological record. Read the last 20-30 entries to understand recent ingests.
+4. **`manifests/eval.md`** — 12 stable evaluation questions. Don't answer them unless explicitly running an eval pass.
+5. **`manifests/eval-usage.md`** — explains the eval loop.
+6. **`manifests/MANIFEST.v2-reference.md`** — the v2 pattern. Reference only; use for ideas to borrow piecemeal (see below).
 
-## Directory structure
+## Ideas to borrow from v2 without restructuring
 
-Three layers, following the Karpathy wiki pattern:
+The user has approved these as safe adoptions against the current SCHEMA.md structure:
 
-| Directory | Purpose | Who writes |
-|---|---|---|
-| `inbox/` | Staging for unprocessed drops (PDFs, URLs, screenshots, pasted text) | You drop, Claude clears |
-| `sources/` | Immutable atomic source notes — one per article/paper/transcript | Claude on ingest; minor edits only after creation |
-| `wiki/` | LLM-maintained pages: concepts, queries, people, index, log, health | Claude maintains |
+- **Source tiering.** Add a `tier:` field to new raw source frontmatter, picking one of: `peer-reviewed`, `primary`, `journalism`, `secondary`, `informal`. Don't backfill old sources unless asked.
+- **Contested concepts.** When two sources genuinely disagree, set `contested: true` (already in SCHEMA.md) and add a `Disagreements` section to the concept body quoting each side with attribution. Never silently pick a winner.
+- **Confidence signals.** Use the `confidence: high|medium|low` field from SCHEMA.md seriously. `high` requires 2+ sources with at least one non-informal tier.
+- **Eval runs.** When the user asks to "run eval" or "evaluate the vault," work through `manifests/eval.md` and rate each answer `strong`/`thin`/`missing` against the current wiki. Feed thin/missing findings into `index.md` Open Questions.
 
-Special files in `wiki/_meta/`:
-- **`index.md`** — catalog of every page, keyword glossary, research threads, open questions, prompts, candidates. Claude reads this first when answering a query. Updated on every operation.
-- **`log.md`** — append-only chronological record. Each entry: `## [YYYY-MM-DD] operation | Title`. Never rewritten, only appended.
-- **`health.md`** — lint dashboard. Overwritten each `/foundry-lint` run.
+## Ideas to NOT adopt yet
 
----
+Until the user explicitly approves a migration:
 
-## File naming
+- Don't create `inbox/`, `sources/`, `wiki/`, `wiki/_meta/`, or `wiki/_archive/` directories.
+- Don't change YAML frontmatter to the plain-key-value format (`Type: #type/concept`). Current YAML (`type: concept`) is correct.
+- Don't introduce `Superseded by:` or `Last verified:` fields yet — they won't round-trip with the existing tooling.
 
-- **Source notes**: Title Case — `The Rosetta Stone of Design Engineering.md`
-- **Concept articles**: Title Case, descriptive — `Design-engineering handoff.md`
-- **People**: `FirstName LastName.md` with hyphens only inside compound names. If surname unknown, `FirstName.md` and note the uncertainty.
-- **Queries**: `YYYY-MM-DD-slug.md`
-- No emoji, no unicode hacks, no date prefixes in titles (dates go in front-matter)
+## Hard rules
 
----
+- **Never delete pages.** If a page is fully superseded, note it in log.md and flag for user review. Archival mechanics aren't defined yet in SCHEMA.md.
+- **Never silently resolve contradictions.** Use `contested: true` and a `Disagreements` section.
+- **Never create a page from a passing mention.** 2+ sources OR central to one source — SCHEMA.md is explicit.
+- **Never break a wikilink.** If renaming, update every backlink.
+- **Every new page must appear in `index.md` and `log.md`.**
 
-## Front-matter
+## Sibling vaults
 
-Plain key-value lines, not YAML. Blank line then `---` then body.
+- `generative-art` — fully v2. Cross-link with `[[generative-art/wiki/Concept Title]]` if a concept here informs or is informed by one there. Read-only from this vault's perspective.
+- `tiwchh` — internet/web history, same hybrid state as this vault.
 
-Note from @jameesy: This is very personal to the way I like to use Obsidian, and the way that I use tags across vaults. You can change to a different style here to suit however you are currently working.
+## If you're unsure
 
-**Source notes (`sources/`):**
-```
-Type: #type/source
-Area: #area/craft/ai
-Keyword: #keyword/knowledge-management #keyword/llms
-Date created: [[2026-04-14]]
-Source: https://example.com/article
-
----
-
-**Summary**
-3-5 sentences. Core claim.
-
-**Key points**
-- 5-10 tight bullets
-
-**Claude's notes**
-One paragraph: what's interesting, where it connects, what it contradicts.
-```
-
-**Wiki pages — concepts (`wiki/`):**
-```
-Type: #type/concept
-Area: #area/craft/ai
-Keyword: #keyword/knowledge-management
-Date created: [[2026-04-14]]
-Sources: [[Source One]], [[Source Two]]
-Related: [[Concept A]], [[Concept B]]
-
----
-```
-Body: `What it is` > `Why it matters` > `Key points` > `Evidence across sources` > `Open questions` > `Prompts`.
-
-**Voice for concepts.** The Foundry gives you a *foundation* for your own writing — not a finished essay. Favour sharp one-liners, evidence citations, and open questions over flowing prose. Key points should be pithy — one line each, claim-shaped. When in doubt, write less.
-
-**Prompts.** Essay-shaped prompts where the concept intersects your existing notes or thinking. Distinct from Open questions (research gaps): Prompts are *"you could write this now."* One or two sentences each, pointed and specific. Empty is fine.
-
-**Wiki pages — queries:**
-```
-Type: #type/query
-Area: #area/craft/management
-Keyword: #keyword/leadership
-Date created: [[2026-04-14]]
-Question: the question asked
-
----
-```
-
-**Wiki pages — people:**
-```
-Type: #type/person
-Area: #area/craft/ai
-Keyword: #keyword/llms
-Date created: [[2026-04-14]]
-
----
-
-One-line identifier. Topic description.
-
-**Sources in the Foundry**
-- [[Source Title]]
-
-**Concepts they inform**
-- [[Concept Title]]
-```
-
----
-
-## Tag taxonomy
-
-Hierarchical sub-areas under Craft. Customise the top-level areas to match your life.
-
-**`#area/`** — examples: Self, Craft, Work, Health, Finances, Meta (use whatever top-level areas fit your life)
-**`#area/craft/`** — design, engineering, management, ai, product, writing
-
-**`#type/`** — each note gets exactly one:
-- `source` — an ingested external source (in `sources/`)
-- `concept` — a synthesised wiki page built from 2+ sources
-- `query` — a research report answering a question
-- `person` — an entity page for a thinker/author
-- `meta` — vault infrastructure (index, log, health)
-
-**`#keyword/`** — free-form but curated via the Keywords section of `wiki/_meta/index.md`. Before creating a new keyword:
-1. Check `wiki/_meta/index.md`
-2. If a near-match exists, reuse it
-3. If genuinely new, add it to the Keywords section with a one-line definition
-
----
-
-## People — when to create a page
-
-Three tiers:
-
-| Tier | Trigger | Action |
-|---|---|---|
-| Author | Person authored a source in `sources/` | Always create a page in `wiki/` on ingest |
-| Subject | Source is substantively about a person | Create page with a richer profile |
-| Passing reference | Mentioned in passing | Use `[[Name]]` wikilink without creating a file. Create only on the **second** independent citation |
-
-People pages stay thin — connector nodes, not essays.
-
----
-
-## Citation & linking
-
-- **Every claim in a concept must be traceable.** `Sources:` front-matter lists the source notes the claim rests on.
-- **Backlink rule**: every new concept links at least 2 existing concepts in `Related:`, or notes why it's an island (flagged in `wiki/_meta/health.md` Orphans section).
-- **Cross-vault links** (if using a companion vault) use `[[VaultName/Path/Note Title]]` form.
-- **Never break a link.** If renaming, update all backlinks.
-
----
-
-## Operations
-
-### Ingest (`/foundry-ingest`)
-
-Process anything in `inbox/` — web clippings, PDFs, URLs, pasted text — into clean atomic source notes in `sources/`.
-
-Flow: read source > normalise into source note > fill front-matter > write summary + key points + Claude's notes > cross-reference companion vault (if any) > update `wiki/_meta/index.md` (Sources section, keyword counts) > append to `wiki/_meta/log.md` > clear inbox.
-
-A single source might touch the source note, index, log, and occasionally a people page.
-
-Won't do: write into your companion vault, create concept articles (that's compile's job), invent work if inbox is empty.
-
-### Compile (`/foundry-compile`)
-
-Scan `sources/` for un-compiled sources (not cited in any concept's `Sources:` field). Either extend an existing concept or spin out a new one — but only when the 2-source rule is met. Otherwise, log the theme to the Candidates section of `wiki/_meta/index.md` and wait.
-
-After each run: update Research Threads, append new Prompts, update keyword counts — all in `wiki/_meta/index.md`. Append to `wiki/_meta/log.md`.
-
-Won't do: write into your companion vault, spin out a concept from a single source, break links.
-
-### Query (`/foundry-ask`)
-
-Research a question across the Foundry and companion vault (read-only). Write report to `wiki/YYYY-MM-DD-slug.md`. Every claim cites its source. Good answers get filed as wiki pages — explorations compound.
-
-Findings with 2+ sources feed back to Candidates. Open gaps feed to Open Questions. Essay prompts to Prompts — all in `wiki/_meta/index.md`.
-
-Won't do: write into your companion vault, invent citations, pad thin answers.
-
-### Lint (`/foundry-lint`)
-
-Health-check the whole vault. Overwrite `wiki/_meta/health.md` with: Stats, Orphans, Candidates needing attention, Keyword drift.
-
----
-
-## What NOT to do
-
-- Don't write into the companion vault (if one exists).
-- Don't create files outside `sources/`, `wiki/`, or `inbox/`.
-- Don't speculatively create concepts from a single source. Wait for cross-source signal.
-- Don't use emojis.
-- Don't add TODO comments. If something's missing, log it in Candidates.
-- Don't create helpers, templates, or meta-infrastructure. The schema (this file) + index + log is all the infrastructure the vault needs.
+Ask the user before doing anything destructive or structural. SCHEMA.md is the source of truth for this vault; `manifests/` is reference and tooling.
