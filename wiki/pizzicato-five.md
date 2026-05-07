@@ -1,21 +1,15 @@
----
-type: entity
-title: Pizzicato Five
-slug: pizzicato-five
-created: 2026-05-07
-tags:
-  - japan
-  - music
-  - shibuya-kei
-  - j-pop
-  - indie-music
-  - postmodernism
-  - 1990s
+Type: #type/person
+Area: #area/interasia-pop
+Keyword: #keyword/japan #keyword/music #keyword/shibuya-kei #keyword/j-pop #keyword/indie-music #keyword/postmodernism #keyword/1990s
+Date created: [[2026-05-07]]
+Updated: [[2026-05-07]]
+Sources: 
+
 ---
 
 # Pizzicato Five
 
-**Pizzicato Five** is a Japanese indie pop band and the most iconic exemplar of the [[Shibuya-kei]] movement. Fronted by the glamorous vocalist [[Nomiya Maki]], the band defined the aesthetic and emotional signature of 1990s Japanese independent music through postmodern pastiche of jazz, easy listening, Motown, disco, and club music.
+**Pizzicato Five** is a Japanese indie pop band and the most iconic exemplar of the [[shibuya-kei]] movement. Fronted by the glamorous vocalist [[pizzicato-five]], the band defined the aesthetic and emotional signature of 1990s Japanese independent music through postmodern pastiche of jazz, easy listening, Motown, disco, and club music.
 
 ## Formation and Key Members
 
@@ -63,14 +57,14 @@ Pizzicato Five's visual identity was as important as its music:
 
 ## Transnational Connections
 
-Pizzicato Five exemplifies [[Shibuya-kei]] as [[transnational soundscape]]:
+Pizzicato Five exemplifies [[shibuya-kei]] as [[transnational soundscape]]:
 
 - **French influences**: Ostentatious Francophilia; [[Kahimi Karie]] connection; samples of French chanson; appropriation of Nouvelle Vague
 - **UK indie lineage**: Influenced by British label [[él Records]]; aesthetic parallels with art-pop's neo-baroque stylization
 - **Brazilian bossa nova**: Incorporation of bossa nova into eclectic mix; participation in transnational easy-listening revival
 - **Global indie circuit**: Performances and releases across London, Paris, Berlin, New York, Latin America
 
-## Affect: Happy-Sad and [[Saudade do Futuro]]
+## Affect: Happy-Sad and [[saudade-do-futuro]]
 
 Pizzicato Five's music is characterized by **happy-sad ambivalence**—simultaneous joy and melancholy. This reflects:
 
@@ -105,10 +99,10 @@ Pizzicato Five represents:
 
 ## Related Figures and Entities
 
-- [[Konishi Yasuharu]]: Founder; music collector; later solo project Pizzicato One
-- [[Nomiya Maki]]: Lead vocalist; iconic figure; later collaborations ([[Towa Tei]], [[Fernanda Takai]] as Maki-Takai)
+- [[konishi-yasuharu]]: Founder; music collector; later solo project Pizzicato One
+- [[pizzicato-five]]: Lead vocalist; iconic figure; later collaborations ([[Towa Tei]], [[Fernanda Takai]] as Maki-Takai)
 - [[Readymade]]: Independent label founded by Konishi
-- [[Shibuya-kei]]: Movement Pizzicato Five exemplifies
+- [[shibuya-kei]]: Movement Pizzicato Five exemplifies
 - [[Hosono Haruomi]]: Producer of early material; connection to [[Yellow Magic Orchestra]]
 
 ## References
@@ -117,4 +111,4 @@ Roberts, Martin (2013). "'A new stereophonic sound spectacular': Shibuya-kei as 
 
 ---
 
-See also: [[Shibuya-kei]], [[Cornelius]], [[Nomiya Maki]], [[Konishi Yasuharu]], [[Happy-Sad Tonality]], [[Saudade do Futuro]], [[Transnational Soundscape]], [[Retromania]]
+See also: [[shibuya-kei]], [[Cornelius]], [[pizzicato-five]], [[konishi-yasuharu]], [[Happy-Sad Tonality]], [[saudade-do-futuro]], [[transnational-soundscape]], [[Retromania]]

@@ -1,4 +1,16 @@
-# Foundry — An Agent-Run Obsidian Vault (v2)
+# Instructions for Claude (and other agents)
+
+This file is the authoritative governance document for the **Inter-Asia Pop** Foundry vault. Read it in full before performing any operation on this vault. The rules below are non-negotiable.
+
+Before acting, also read:
+1. `wiki/_meta/index.md` — catalog of pages, keywords, open questions, candidates
+2. `wiki/_meta/log.md` — last 20-30 entries for recent vault state
+3. `wiki/_meta/eval.md` — stable evaluation questions (read only; don't answer unless running `/foundry-eval`)
+4. `wiki/_meta/eval-usage.md` — explains the eval loop
+
+If you're unsure, ask the user before doing anything destructive or structural.
+
+---
 
 This is an autonomous knowledge vault maintained by Claude. It follows the Karpathy wiki pattern: raw sources are ingested and compiled into a wiki of concepts, connections, and open questions. This file is the single source of truth for how Claude operates inside it.
 
@@ -8,7 +20,7 @@ This is an autonomous knowledge vault maintained by Claude. It follows the Karpa
 
 ## Voice anchor
 
-Concepts in this vault read like **field notes from a practitioner**, not gallery wall text, not academic survey, not marketing copy. Favour sharp claims, tight evidence, and honest open questions. Never write a sentence you wouldn't say out loud to a peer. When in doubt, write less.
+Concepts in this vault sit at the intersection of media theory, industry analysis, and aesthetic criticism of Asian pop culture. Write like a bilingual critic with domain expertise: neither Orientalist marvelling nor flat global-industry prose. Take the host cultures' own voices seriously — Japanese, Korean, Chinese, Taiwanese, and other Asian practitioners and scholars are the primary authorities on their own media, not Western receivers. Avoid: Cool-Japan marketing tropes, "K-wave explains everything" reductions, techno-Orientalism dressed as enthusiasm. Hold transnational complexity open. When in doubt, write less.
 
 Each vault pinned to this MANIFEST should replace this paragraph with one domain-specific sentence. The paragraph is load-bearing — it's what Claude reaches for when a source drags the voice toward its own register.
 
@@ -23,13 +35,17 @@ If you keep a personal vault (a commonplace, Zettelkasten, or notes folder), you
 
 One-way read, cross-linkable. That's the contract.
 
-## Sibling vaults (new in v2)
+## Sibling vaults
 
-Multiple agent-run Foundries may cross-link. Declare them in front-matter of this file:
+Multiple agent-run Foundries may cross-link.
 
 ```
-Linked-vaults: ~/city-pop, ~/interasia-pop
+Linked-vaults: ~/generative-art, ~/tiwchh
 ```
+
+Related but NOT sibling vaults (web apps, not Foundries):
+- `~/city-pop` — SvelteKit app presenting City Pop and related aesthetics visually
+- `~/nanogenres` — SvelteKit app; Letterboxd-nanogenre data
 
 Sibling vaults are **read-only** to Claude from this vault's perspective. Cross-link with `[[SiblingVaultName/wiki/Concept Title]]`. Never edit a sibling vault from inside another. Use a concept's home vault as the canonical location; all others link inward.
 
@@ -56,12 +72,12 @@ Special files in `wiki/_meta/`:
 
 ## File naming
 
-- **Source notes**: Title Case — `The Rosetta Stone of Design Engineering.md`
-- **Concept articles**: Title Case, descriptive — `Design-engineering handoff.md`
-- **People**: `FirstName LastName.md` with hyphens only inside compound names. If surname unknown, `FirstName.md` and note the uncertainty.
+- **Source notes**: Descriptive — `Author - Title (Year).md` (e.g. `Mori - Japanese Gentlemen Stand Up Please - YMO Techno-orientalism (2026).md`)
+- **Concept articles, persons, and all wiki pages**: kebab-case — `shibuya-kei.md`, `ryuichi-sakamoto.md`, `techno-orientalism.md`
 - **Queries**: `YYYY-MM-DD-slug.md`
 - **Archived**: original name preserved, moved into `wiki/_archive/YYYY-MM/`
 - No emoji, no unicode hacks, no date prefixes in titles (dates go in front-matter)
+- **Note:** the v2 MANIFEST originally specified Title Case. Inter-Asia Pop uses kebab-case to match existing wikilinks and avoid one-time rename churn. This is an allowed per-vault override. Japanese names preserve romanisation (macrons optional) and are rendered `given-family` for consistency with Western convention in filenames (e.g. `ryuichi-sakamoto.md`), while body text preferences `family given` per Japanese convention (e.g. 'Sakamoto Ryuichi').
 
 ---
 
@@ -177,7 +193,8 @@ One-line identifier. Topic description.
 ## Tag taxonomy
 
 **`#area/`** — examples: Self, Craft, Work, Health, Finances, Meta (whatever top-level areas fit your life)
-**`#area/craft/`** — design, engineering, management, ai, product, writing
+**`#area/interasia-pop`** — domain root for this vault
+**`#area/japan`**, **`#area/korea`**, **`#area/hong-kong`**, etc. — regional subdomains
 
 **`#type/`** — each note gets exactly one: `source`, `concept`, `query`, `person`, `meta`.
 

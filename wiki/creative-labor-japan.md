@@ -1,12 +1,13 @@
----
-title: Creative Labor in Japanese Media Industries
-created: 2026-05-07
-updated: 2026-05-07
-type: concept
-tags: [creative-export, soft-power, japan, industry, labor, precarity, cultural-export]
-sources: [raw/papers/shinji-oyama.md]
-confidence: high
-contested: false
+Type: #type/concept
+Area: #area/interasia-pop
+Keyword: #keyword/creative-export #keyword/soft-power #keyword/japan #keyword/industry #keyword/labor #keyword/precarity #keyword/cultural-export
+Date created: [[2026-05-07]]
+Updated: [[2026-05-07]]
+Sources: [[Oyama - Creative Labor in Japanese Media Industries]]
+Related:
+Contested: false
+Confidence: high
+
 ---
 
 ## Overview
@@ -151,7 +152,7 @@ Scholars increasingly contextualize rather than importing Western theories, aski
 
 ## Connections to Inter-Asia Pop
 
-[[Weekly Shōnen Jump]] franchises (Dragon Ball, One Piece, etc.) exemplify:
+[[weekly-shonen-jump]] franchises (Dragon Ball, One Piece, etc.) exemplify:
 - Japanese soft power and cultural export
 - Regional circulation pathways in Asia and globally
 - Adaptation and localization across diverse markets

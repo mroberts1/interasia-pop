@@ -1,23 +1,21 @@
----
-title: Lin Shihei
-created: 2026-05-07
-updated: 2026-05-07
-type: entity
-tags: [person, editor, japan, shueisha, manga, creative-manager]
-sources: [raw/papers/shinji-oyama.md]
-confidence: high
-contested: false
+Type: #type/person
+Area: #area/interasia-pop
+Keyword: #keyword/editor #keyword/japan #keyword/shueisha #keyword/manga #keyword/creative-manager
+Date created: [[2026-05-07]]
+Updated: [[2026-05-07]]
+Sources: [[Oyama - Creative Labor in Japanese Media Industries]]
+
 ---
 
 ## Overview
 
-Lin Shihei is the most renowned contemporary editor at [[Shueisha]] and current editor of Jump+ (the digital platform of [[Weekly Shōnen Jump]]). With 17+ years of editorial experience, he is credited with introducing global mega-hits including "Chainsaw Man" and "Spy x Family" to the world.
+Lin Shihei is the most renowned contemporary editor at [[shueisha]] and current editor of Jump+ (the digital platform of [[weekly-shonen-jump]]). With 17+ years of editorial experience, he is credited with introducing global mega-hits including "Chainsaw Man" and "Spy x Family" to the world.
 
 ## Career Highlights
 
 ### Experience & Tenure
 
-- **Experience:** 17+ years as [[Weekly Shōnen Jump]] / Jump+ editor
+- **Experience:** 17+ years as [[weekly-shonen-jump]] / Jump+ editor
 - **Current Role:** Editor, Jump+ (Shonen Jump Plus, digital platform)
 - **Impact:** Recognized as perhaps the most successful hit-maker in contemporary manga editing
 
@@ -51,11 +49,11 @@ Lin Shihei is the most renowned contemporary editor at [[Shueisha]] and current 
 Lin explicitly rejects the notion of a secret formula for hit manga. Instead, he emphasizes:
 - **Luck as a factor:** Success partly dependent on unpredictable market response
 - **Volume & iteration:** High number of submissions and attempts increases probability of hits
-- **Long-term thinking:** Job security at [[Shueisha]] affords luxury of sustained investment in promising but unproven artists
+- **Long-term thinking:** Job security at [[shueisha]] affords luxury of sustained investment in promising but unproven artists
 
 ### Industry Saying
 
-Lin illustrates the asymmetry between editor security and artist precarity through the sardonic observation: **"A seasoned [[Weekly Shōnen Jump]] editor stands on the corpses of tens or hundreds of mangaka"** — highlighting how his successes depend partly on artists whose series are canceled.
+Lin illustrates the asymmetry between editor security and artist precarity through the sardonic observation: **"A seasoned [[weekly-shonen-jump]] editor stands on the corpses of tens or hundreds of mangaka"** — highlighting how his successes depend partly on artists whose series are canceled.
 
 ### Mentorship as Cultural Bridge
 
@@ -76,7 +74,7 @@ Lin's mentorship extends beyond editorial:
 
 ### Shukatsu Entry
 
-- Hired through [[Shukatsu]] process into [[Shueisha]]
+- Hired through [[shukatsu]] process into [[shueisha]]
 - Elite university graduate (like most editors)
 - No indicated passion for manga prior to assignment
 
@@ -99,12 +97,12 @@ Despite initial motivation disconnected from manga passion, Lin evolved into one
 
 - Subject of extensive interviews and media coverage
 - Frequently cited in Japanese manga industry publications
-- Represents contemporary ideal of [[Manga Editor]] within Japan
+- Represents contemporary ideal of [[manga-editor]] within Japan
 
 ### Industry Lore
 
 - Contributes to understanding of what constitutes commercially viable manga
-- Mentorship model viewed as exemplary within [[Shueisha]]
+- Mentorship model viewed as exemplary within [[shueisha]]
 - Demonstrates potential for editors lacking prior manga passion to achieve exceptional artistic judgments
 
 ## Global Impact
@@ -112,7 +110,7 @@ Despite initial motivation disconnected from manga passion, Lin evolved into one
 Lin's editorial vision directly shapes:
 - International circulation of contemporary manga
 - Adaptation of Japanese manga into anime, films, and global fandoms
-- Positioning of [[Weekly Shōnen Jump]] as cultural export engine for Japan
+- Positioning of [[weekly-shonen-jump]] as cultural export engine for Japan
 - Transnational audiences in Asia and beyond
 
 ## Comparison to Historical Editors
@@ -125,7 +123,7 @@ Lin's editorial vision directly shapes:
 
 ## Connections to Inter-Asia Pop
 
-Lin's editorial work is central to [[Shueisha]]'s role in:
+Lin's editorial work is central to [[shueisha]]'s role in:
 - Manga franchise development for global circulation
 - Regional adaptation and localization across Asia
 - Transnational fandom engagement

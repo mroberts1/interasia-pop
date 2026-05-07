@@ -1,32 +1,35 @@
+Type: #type/source
+Tier: #source/primary
+Area: #area/interasia-pop
+Keyword: #keyword/japan #keyword/japanese-pop-music
+Date created: [[2026-05-07]]
+Last verified: [[2026-05-07]]
+Source: Martin Roberts. "'A new stereophonic sound spectacular': Shibuya-kei as transnational soundscape". Journal article.
+Superseded by:
+
 ---
-title: "'A new stereophonic sound spectacular': Shibuya-kei as transnational soundscape"
-author: Martin Roberts
-source_type: journal article
-source_journal: Popular Music
-source_volume: 32
-source_issue: 1 (Special Issue)
-source_pages: 111-123
-publication_date: 2013-01-01
-published_online: 2013-02-06
-doi: 10.1017/S026114301200058X
-source_file: mroberts-shibuya-kei.pdf
-extracted_date: 2026-05-07
-page_count: 14
-word_count: 7670
-source_hash: cdaaa3b9f5c6c4d899fafdf1476433db02c5c61b75570ed1f165311146f881d9
-tags:
-  - japan
-  - music
-  - shibuya-kei
-  - j-pop
-  - transnational
-  - postmodernism
-  - subculture
-  - indie-music
-  - bossa-nova
-  - cultural-circulation
-  - 1980s-1990s
+
+**Summary**
+
+Roberts reframes Shibuya-kei — the late-1980s/1990s independent J-pop movement centered on Pizzicato Five, Cornelius, Kahimi Karie and Readymade Records — as a transnational soundscape rather than a national genre. The core claim: Shibuya-kei's pastiche of 1960s French pop, Italian lounge, Brazilian bossa, American soul, and Japanese easy listening produced music that was genuinely international in composition before Anglo-American listeners discovered it, and its affective core is saudade do futuro: nostalgia for the techno-utopian promises of the 1960s that the 1990s had failed to deliver.
+
+**Key points**
+
+- Shibuya-kei emerged late 1980s, peaked mid-1990s, centered on Shibuya (Tokyo) record-shop culture
+- Key figures: Konishi Yasuharu (Pizzicato Five, Readymade Records), Cornelius (Keigo Oyamada), Kahimi Karie
+- Aesthetic pillars: 1960s easy listening, bossa nova, French yé-yé, Motown, lounge jazz, film scores
+- Distinct from genre hybridity: Roberts argues it's a transnational soundscape — international co-production, not fusion
+- Affective register: "saudade do futuro" / nostalgia for the future — yearning for 1960s techno-utopian promises unfulfilled
+- Visual iconography: glamorous 1960s style (Nomiya Maki exemplifies), graphic design, retro-futurism
+- Economically enabled by bubble-era record-shop abundance and import-culture infrastructure
+
+**Claude's notes**
+
+This is the user's own academic paper. Primary voice on Shibuya-kei, with insider knowledge of the Japanese record-shop circuit and the Readymade scene. The transnational soundscape frame is the most cite-able contribution. Pair with adjacent academic sources (Michael Bourdaghs on J-pop historiography; Carolyn Stevens on Japanese popular music; W. David Marx Ametora for the tangential Japan-as-retranslator thread) to corroborate.
+
 ---
+
+## Original extracted text
 
 'A new stereophonic sound spectacular': Shibuya-kei as transnational soundscape
 ===============================================================================
@@ -364,3 +367,4 @@ Wikilinks
 ----------
 
 [[Shibuya-kei]] | [[Transnational Soundscape]] | [[J-pop]] | [[Pizzicato Five]] | [[Cornelius]] | [[Oyamada Keigo]] | [[Konishi Yasuharu]] | [[Postmodernism]] | [[Music Culture (Japan)]] | [[Cultural Circulation]] | [[Bossa Nova]] | [[Easy Listening]] | [[Indie Music Scenes]] | [[1960s Retro Aesthetic]] | [[Saudade]] | [[Mono no Aware]] | [[Audiotopia]] | [[Tokyo Cultural Geography]] | [[Retromania]] | [[Subculture Industry]] | [[Yellow Magic Orchestra]] | [[City Pop]]
+

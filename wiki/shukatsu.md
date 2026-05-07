@@ -1,12 +1,13 @@
----
-title: Shukatsu (Japanese Graduate Recruitment)
-created: 2026-05-07
-updated: 2026-05-07
-type: concept
-tags: [japan, labor, recruitment, education, hiring, employment]
-sources: [raw/papers/shinji-oyama.md]
-confidence: high
-contested: false
+Type: #type/concept
+Area: #area/interasia-pop
+Keyword: #keyword/japan #keyword/labor #keyword/recruitment #keyword/education #keyword/hiring #keyword/employment
+Date created: [[2026-05-07]]
+Updated: [[2026-05-07]]
+Sources: [[Oyama - Creative Labor in Japanese Media Industries]]
+Related:
+Contested: false
+Confidence: high
+
 ---
 
 ## Overview
@@ -75,7 +76,7 @@ Shueisha does not recruit for designated roles (e.g., "Editor wanted" or "Market
 
 Shueisha's recruitment website documents frequent mismatches:
 - Ms. A (2020): Degree in political economy, passionate about comedy and attractive men; assigned to Non-no (women's fashion magazine) despite limited fashion knowledge
-- Mr. B (2023): Intercollegiate soccer player who aspired to Sportiva (sports magazine); assigned to [[Weekly Shōnen Jump]]
+- Mr. B (2023): Intercollegiate soccer player who aspired to Sportiva (sports magazine); assigned to [[weekly-shonen-jump]]
 
 Shueisha presents these mismatches as "real-life lessons" and amusing episodes, emphasizing adaptability over passion.
 
@@ -84,7 +85,7 @@ Shueisha presents these mismatches as "real-life lessons" and amusing episodes, 
 ### Historical Patterns
 
 - Heavily skewed toward elite institutions
-- **Waseda University:** ~8 of 11 past [[Weekly Shōnen Jump]] editors-in-chief
+- **Waseda University:** ~8 of 11 past [[weekly-shonen-jump]] editors-in-chief
 - **University of Tokyo:** Well-represented among senior leaders
 - **Non-elite universities:** Rare exceptions; only one hire from publishing/manga-related programs in recent years
 
@@ -159,7 +160,7 @@ Shukatsu perpetuates inequalities by:
 
 ### Generational Impact
 
-All [[Shueisha]] editors, including editors-in-chief, entered through shukatsu. The system thus shapes the homogeneity and concentrated perspectives within Japan's most influential manga publisher.
+All [[shueisha]] editors, including editors-in-chief, entered through shukatsu. The system thus shapes the homogeneity and concentrated perspectives within Japan's most influential manga publisher.
 
 ## Evolution & Debate
 
@@ -176,7 +177,7 @@ In context of global creative industries precarity, shukatsu's promise of secure
 
 ## Connections to Inter-Asia Pop
 
-Shukatsu recruitment shapes the editorial leadership and creative vision of [[Shueisha]] and [[Weekly Shōnen Jump]], which are primary drivers of Japanese manga and anime circulation across Asia and globally.
+Shukatsu recruitment shapes the editorial leadership and creative vision of [[shueisha]] and [[weekly-shonen-jump]], which are primary drivers of Japanese manga and anime circulation across Asia and globally.
 
 ## References
 

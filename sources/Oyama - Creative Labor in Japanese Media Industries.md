@@ -1,8 +1,36 @@
+Type: #type/source
+Tier: #source/peer-reviewed
+Area: #area/interasia-pop
+Keyword: #keyword/japan #keyword/japanese-pop-music
+Date created: [[2026-05-07]]
+Last verified: [[2026-05-07]]
+Source: Unknown. "". Chapter.
+Superseded by:
+
 ---
-source_url: https://doi.org/10.1080/10286632.2023.2292719
-ingested: 2026-05-07
-sha256: 5872e6dc484513b38cfd751b0b1a01a9c8adb62d8d0622526c9af97addcecbf7
+
+**Summary**
+
+Oyama's paper examines creative labor in Japanese media industries, arguing that the Western "creative class" rhetoric of autonomy-plus-precarity doesn't apply. In Japan, creative managers (editors, producers, studio executives) enjoy lifetime employment and hierarchical security, while primary creators (mangaka, musicians, actors) face acute precarity. The decoupling of creative managerial labor from creative risk produces different kinds of output than the Western freelance model — demonstrated through manga editorial practice at Shueisha.
+
+**Key points**
+
+- Japanese creative industries operate on membership-type employment, not Western freelance
+- Creative managers (editors, A&R, producers) have lifetime security; creators below them face precarity
+- Shukatsu (formalized graduate recruitment) funnels elite university graduates into these managerial roles
+- 200:1 competition ratios at top publishers (Shueisha, Kodansha, Shogakukan)
+- Uncreativity (Bilton's term): methodical editorial guidance and stability as counterbalance to creator innovation
+- Editor-mangaka relationship combines long-term mentorship with structural power asymmetry
+- This labor structure helps explain the durability and global reach of Japanese media franchises
+
+**Claude's notes**
+
+Oyama's industry-analytical frame is the counter-pole to Mōri's aesthetic-cultural frame. Essential for any concept touching on how Japanese media actually gets made. The uncreativity-as-complement argument (credited to Bilton) will need Bilton's original text to corroborate. Pair with Suzuki (Jump editorial history) and Douglas McGray's "Japan's Gross National Cool" for industry/soft-power overlap.
+
 ---
+
+## Original extracted text
+
 International Journal of Cultural Policy
 
 ISSN: 1028-6632 (Print) 1477-2833 (Online) Journal homepage: www.tandfonline.com/journals/gcul20

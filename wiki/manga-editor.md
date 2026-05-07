@@ -1,17 +1,18 @@
----
-title: Manga Editor
-created: 2026-05-07
-updated: 2026-05-07
-type: entity
-tags: [role, japan, media, creative-manager, labor, publishing]
-sources: [raw/papers/shinji-oyama.md]
-confidence: high
-contested: false
+Type: #type/concept
+Area: #area/interasia-pop
+Keyword: #keyword/role #keyword/japan #keyword/media #keyword/creative-manager #keyword/labor #keyword/publishing
+Date created: [[2026-05-07]]
+Updated: [[2026-05-07]]
+Sources: [[Oyama - Creative Labor in Japanese Media Industries]]
+Related:
+Contested: false
+Confidence: high
+
 ---
 
 ## Overview
 
-A manga editor at a major Japanese publisher like [[Shueisha]] functions as a **creative manager** — an intermediary between profit-focused executives and primary creative workers (mangaka). At [[Weekly Shōnen Jump]], editors are central to both the artistic development of manga and the commercial success of the publication.
+A manga editor at a major Japanese publisher like [[shueisha]] functions as a **creative manager** — an intermediary between profit-focused executives and primary creative workers (mangaka). At [[weekly-shonen-jump]], editors are central to both the artistic development of manga and the commercial success of the publication.
 
 ## Scholarly Classification
 
@@ -25,10 +26,10 @@ Following Hesmondhalgh & Baker (2011), manga editors are classified as **creativ
 
 ### Education & Experience
 
-- Typically **elite university graduates** hired through [[Shukatsu]]
+- Typically **elite university graduates** hired through [[shukatsu]]
 - Often **lack specialization** in publishing, media, or creative arts
 - Rarely possess **prior work experience** in manga or media industries
-- Many **never read manga** before assignment to [[Weekly Shōnen Jump]]
+- Many **never read manga** before assignment to [[weekly-shonen-jump]]
 
 ### Career Entry
 
@@ -59,7 +60,7 @@ Editors actively recruit new mangaka through:
 
 Editors guide mangaka through multiple stages:
 1. **Entry Awards:** Submission to newcomer competitions
-2. **One-Shot Publication:** Stories published in [[Weekly Shōnen Jump]] or affiliate publications
+2. **One-Shot Publication:** Stories published in [[weekly-shonen-jump]] or affiliate publications
 3. **Pre-Serialization Development:** Repeated submissions and feedback cycles (can last 10+ years)
 4. **Serialization Advocacy:** Pitching at serialization meetings to secure ongoing series slot
 
@@ -106,7 +107,7 @@ Drawing on Chris Bilton's concept, manga editors embody **"uncreativity"** — s
 The editor-mangaka relationship is **asymmetrical**:
 - **Editors:** Permanent employment, job security, institutional authority
 - **Mangaka:** Freelance status, precarious income, dependent on editor advocacy
-- **Industry saying:** "A seasoned [[Weekly Shōnen Jump]] editor stands on the corpses of tens or hundreds of mangaka"
+- **Industry saying:** "A seasoned [[weekly-shonen-jump]] editor stands on the corpses of tens or hundreds of mangaka"
 
 This hierarchy creates **friction and tension** (documented in mangaka memoirs and editor accounts) but also allows editors with **security and long-term thinking** to advocate for distinctive, innovative works.
 
@@ -155,7 +156,7 @@ This hierarchy creates **friction and tension** (documented in mangaka memoirs a
 
 ## Gender Representation
 
-- **All 11 [[Weekly Shōnen Jump]] editors-in-chief:** Men
+- **All 11 [[weekly-shonen-jump]] editors-in-chief:** Men
 - **Lack of diversity:** Concentrated among elite university graduates
 - **Gender imbalance:** Particularly pronounced in senior editorial roles
 
@@ -199,7 +200,7 @@ Through mentorship and editorial vision, editors shape:
 
 ## Connection to Inter-Asia Pop
 
-Manga editors at [[Shueisha]] are central figures in:
+Manga editors at [[shueisha]] are central figures in:
 - Development of manga franchises exported across Asia
 - Regional circulation and adaptation of Japanese media
 - Transnational fandom and audience engagement

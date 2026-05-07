@@ -1,22 +1,18 @@
----
-type: concept
-title: Saudade do Futuro (Nostalgia for the Future)
-slug: saudade-do-futuro
-created: 2026-05-07
-tags:
-  - affect
-  - aesthetics
-  - nostalgia
-  - futurism
-  - japan
-  - music
-  - 1960s
-  - techno-utopianism
+Type: #type/concept
+Area: #area/interasia-pop
+Keyword: #keyword/affect #keyword/aesthetics #keyword/nostalgia #keyword/futurism #keyword/japan #keyword/music #keyword/1960s #keyword/techno-utopianism
+Date created: [[2026-05-07]]
+Updated: [[2026-05-07]]
+Sources: 
+Related:
+Contested: false
+Confidence: medium
+
 ---
 
 # Saudade do Futuro
 
-**Saudade do futuro** (Portuguese: "nostalgia for the future") is an affective concept describing a paradoxical yearning for a promised future that never materialized or for futures imagined in the past that now seem unattainable. Musicologist [[Martin Roberts]] argues this concept captures the emotional and aesthetic core of [[Shibuya-kei]] music and 1990s postmodern culture more broadly.
+**Saudade do futuro** (Portuguese: "nostalgia for the future") is an affective concept describing a paradoxical yearning for a promised future that never materialized or for futures imagined in the past that now seem unattainable. Musicologist [[Martin Roberts]] argues this concept captures the emotional and aesthetic core of [[shibuya-kei]] music and 1990s postmodern culture more broadly.
 
 ## The Concept
 
@@ -43,7 +39,7 @@ The 1950s-1960s produced a new genre of easy listening designed to showcase tech
 ### Musical Exemplars
 Composers and performers like **Martin Denny**, **Arthur Lyman**, and others created recordings with titles and artwork evoking technological utopianism. These recordings became archived cultural artifacts.
 
-## [[Pizzicato Five]] and Shibuya-kei as Postmodern Saudade do Futuro
+## [[pizzicato-five]] and Shibuya-kei as Postmodern Saudade do Futuro
 
 [[Roberts]] argues Pizzicato Five and Shibuya-kei artists engage in saudade do futuro through:
 
@@ -106,7 +102,7 @@ Saudade do futuro in Shibuya-kei relates to specific historical moment:
 
 ## Pizzicato One: Post-Earthquake Inflection (2011)
 
-[[Konishi Yasuharu]]'s post-Pizzicato Five project **Pizzicato One**, released May 25, 2011 (10th anniversary of band's dissolution), provides striking example of saudade do futuro's evolution:
+[[konishi-yasuharu]]'s post-Pizzicato Five project **Pizzicato One**, released May 25, 2011 (10th anniversary of band's dissolution), provides striking example of saudade do futuro's evolution:
 
 ### Album Description
 Described as collection of "very sad" cover songs; cover depicts black-clad, snow-covered Konishi standing alone in wintry landscape.
@@ -149,8 +145,8 @@ Saudade do futuro challenges linear time:
 - [[Mono no Aware]]: Japanese aesthetic of transience and gentle sadness
 - [[Happy-Sad Tonality]]: Shibuya-kei's characteristic emotional ambivalence
 - [[Retromania]]: Simon Reynolds's concept of postmodern relentless nostalgia
-- [[Shibuya-kei]]: Primary musical exemplar of saudade do futuro in contemporary form
-- [[Pizzicato Five]]: Iconic practitioners
+- [[shibuya-kei]]: Primary musical exemplar of saudade do futuro in contemporary form
+- [[pizzicato-five]]: Iconic practitioners
 
 ## References
 
@@ -158,4 +154,4 @@ Roberts, Martin (2013). "'A new stereophonic sound spectacular': Shibuya-kei as 
 
 ---
 
-See also: [[Shibuya-kei]], [[Pizzicato Five]], [[Saudade]], [[Mono no Aware]], [[Retromania]], [[Postmodernism]], [[Affect Theory]]
+See also: [[shibuya-kei]], [[pizzicato-five]], [[Saudade]], [[Mono no Aware]], [[Retromania]], [[Postmodernism]], [[Affect Theory]]

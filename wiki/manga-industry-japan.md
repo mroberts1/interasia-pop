@@ -1,17 +1,18 @@
----
-title: Manga Industry (Japan)
-created: 2026-05-07
-updated: 2026-05-07
-type: concept
-tags: [japan, media, industry, creative-labor, publishing, soft-power]
-sources: [raw/papers/shinji-oyama.md]
-confidence: high
-contested: false
+Type: #type/concept
+Area: #area/interasia-pop
+Keyword: #keyword/japan #keyword/media #keyword/industry #keyword/creative-labor #keyword/publishing #keyword/soft-power
+Date created: [[2026-05-07]]
+Updated: [[2026-05-07]]
+Sources: [[Oyama - Creative Labor in Japanese Media Industries]]
+Related:
+Contested: false
+Confidence: high
+
 ---
 
 ## Overview
 
-The Japanese manga industry is a cornerstone of Japan's creative and cultural industries, generating global media franchises worth billions of dollars annually. [[Shueisha]], [[Kodansha]], and [[Shogakukan]] dominate the market, together controlling ~37% of publishing market share while representing only 4.5% of publishing workforce (as of 2018).
+The Japanese manga industry is a cornerstone of Japan's creative and cultural industries, generating global media franchises worth billions of dollars annually. [[shueisha]], [[Kodansha]], and [[Shogakukan]] dominate the market, together controlling ~37% of publishing market share while representing only 4.5% of publishing workforce (as of 2018).
 
 ## Industry Scale & Reach
 
@@ -72,7 +73,7 @@ Following Hesmondhalgh & Baker (2011), the manga production chain includes:
 
 ### Editors: Membership-Type Employment
 
-- Hired through [[Shukatsu]] as elite university graduates
+- Hired through [[shukatsu]] as elite university graduates
 - Lifetime employment guarantee
 - Seniority-based salary and advancement
 - Internal job rotation across departments
@@ -139,7 +140,7 @@ Following Hesmondhalgh & Baker (2011), the manga production chain includes:
 
 ### Lack of Gender Diversity
 
-- **All 11 [[Weekly Shōnen Jump]] editors-in-chief:** Male
+- **All 11 [[weekly-shonen-jump]] editors-in-chief:** Male
 - Senior editing roles heavily male-dominated
 - Reflects broader Japanese corporate hiring patterns
 
@@ -180,7 +181,7 @@ The broader **Masukomi** (mass media) industry in Japan includes:
 
 ### Regional Circulation in Asia
 
-[[Weekly Shōnen Jump]] and Shueisha franchises circulate across:
+[[weekly-shonen-jump]] and Shueisha franchises circulate across:
 - East Asia (South Korea, Taiwan, Hong Kong, China)
 - Southeast Asia
 - Diaspora communities globally

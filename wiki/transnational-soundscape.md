@@ -1,21 +1,18 @@
----
-type: concept
-title: Transnational Soundscape
-slug: transnational-soundscape
-created: 2026-05-07
-tags:
-  - music
-  - theory
-  - cultural-studies
-  - globalization
-  - transnationalism
-  - j-pop
-  - shibuya-kei
+Type: #type/concept
+Area: #area/interasia-pop
+Keyword: #keyword/music #keyword/theory #keyword/cultural-studies #keyword/globalization #keyword/transnationalism #keyword/j-pop #keyword/shibuya-kei
+Date created: [[2026-05-07]]
+Updated: [[2026-05-07]]
+Sources: 
+Related:
+Contested: false
+Confidence: medium
+
 ---
 
 # Transnational Soundscape
 
-**Transnational Soundscape** is a theoretical framework developed by musicologist [[Martin Roberts]] to understand [[Shibuya-kei]] and other contemporary music forms as **ongoing international co-productions involving both local and non-local musics and musicians**, rather than as phenomena bound by national geography or ethnic identity.
+**Transnational Soundscape** is a theoretical framework developed by musicologist [[Martin Roberts]] to understand [[shibuya-kei]] and other contemporary music forms as **ongoing international co-productions involving both local and non-local musics and musicians**, rather than as phenomena bound by national geography or ethnic identity.
 
 ## Theoretical Framework
 
@@ -46,7 +43,7 @@ Rather than isolated geographic origins, Shibuya-kei is understood as a product 
 - Cross-Atlantic indie label circulation: Cherry Red (London), Tricatel (Paris) distributed Shibuya-kei material
 
 ### New York Circuit
-- [[Pizzicato Five]] and [[Cornelius]] performed at US festivals and music venues (1992-1998)
+- [[pizzicato-five]] and [[Cornelius]] performed at US festivals and music venues (1992-1998)
 - [[Matador Records]] (New York) distributed Pizzicato Five; sales reportedly over 100,000 copies
 - [[Towa Tei]] (Japanese-Korean DJ) bridged Deee-Lite acid-jazz scene with Shibuya-kei
 - NYC venue performances, remix culture, club DJ circulation
@@ -54,7 +51,7 @@ Rather than isolated geographic origins, Shibuya-kei is understood as a product 
 ### Rio-Tokyo Connection
 - **Japan-Brazil migration history**: Historical connection through Japanese diaspora in Brazil
 - **Bossa nova adoption**: [[Saudade]] parallels to Shibuya-kei happy-sad tonality
-- **Contemporary collaborations**: [[Nomiya Maki]] (Pizzicato Five) and [[Fernanda Takai]] (Pato Fu, Japanese-Brazilian) performed together; released _Maki-Takai: No Jetlag_ (2009) with bilingual Japanese-Portuguese vocals
+- **Contemporary collaborations**: [[pizzicato-five]] (Pizzicato Five) and [[Fernanda Takai]] (Pato Fu, Japanese-Brazilian) performed together; released _Maki-Takai: No Jetlag_ (2009) with bilingual Japanese-Portuguese vocals
 
 ### Berlin and Distributed Networks
 - [[Bungalow Records]] (Berlin) released _Sushi_ compilations; circulated Shibuya-kei widely across Europe/US
@@ -100,7 +97,7 @@ Roberts notes parallel frameworks:
 - **Diaspora-based music** (South Asian bhangra, Algerian raï): Often tied to ethnic/national communities displaced from homeland
 - **Shibuya-kei as different**: Producers not exclusively from one ethnic group or national community; includes Japanese, Japanese-Korean, Japanese-Brazilian, Western non-Japanese participants; not primarily diaspora-inflected but cosmopolitan/international by design
 
-## Affect: [[Saudade]], [[Mono no Aware]], [[Saudade do Futuro]]
+## Affect: [[Saudade]], [[Mono no Aware]], [[saudade-do-futuro]]
 
 The transnational soundscape produces a distinctive affect:
 
@@ -128,7 +125,7 @@ Japanese Shibuya-kei artists remain actively involved in collaborative projects 
 ## Related Concepts
 
 - [[Audiotopia]]: Josh Kun's term; simultaneously everywhere and nowhere
-- [[Shibuya-kei]]: Primary exemplar of transnational soundscape
+- [[shibuya-kei]]: Primary exemplar of transnational soundscape
 - [[Postmodernism]]: Aesthetic and cultural framework
 - [[Cultural Circulation]]: Broader phenomenon of which transnational soundscape is instance
 - [[Retromania]]: Simon Reynolds's term; postmodern relentless nostalgia
@@ -139,4 +136,4 @@ Roberts, Martin (2013). "'A new stereophonic sound spectacular': Shibuya-kei as 
 
 ---
 
-See also: [[Shibuya-kei]], [[Pizzicato Five]], [[Global Music Circulation]], [[Postmodernism]], [[Saudade do Futuro]]
+See also: [[shibuya-kei]], [[pizzicato-five]], [[Global Music Circulation]], [[Postmodernism]], [[saudade-do-futuro]]

@@ -1,16 +1,13 @@
----
-type: entity
-title: Shibuya-kei (musical movement)
-slug: shibuya-kei
-created: 2026-05-07
-tags:
-  - japan
-  - music
-  - j-pop
-  - indie-music
-  - 1980s
-  - 1990s
-  - subculture
+Type: #type/concept
+Area: #area/interasia-pop
+Keyword: #keyword/japan #keyword/music #keyword/j-pop #keyword/indie-music #keyword/1980s #keyword/1990s #keyword/subculture
+Date created: [[2026-05-07]]
+Updated: [[2026-05-07]]
+Sources: 
+Related:
+Contested: false
+Confidence: medium
+
 ---
 
 # Shibuya-kei
@@ -21,7 +18,7 @@ tags:
 
 The term "Shibuya-kei" (literally "Shibuya style") emerged in the early 1990s to describe a loose-knit network of [[Japanese indie musicians|Indie Music Scenes]], DJs, and independent labels centered in the fashionable Shibuya shopping district of south-west Tokyo. Unlike mainstream Japanese pop distributed by major labels, Shibuya-kei was defined by its aesthetic stance against the mainstream.
 
-The movement emerged from a rich culture of music collecting and consumption enabled by the opening of flagship record stores—HMV, Tower Records, Wave, and Shinseido—which provided outlets for both Japanese and imported foreign music. Two key figures regarded as most influential in the movement's emergence were **Konishi Yasuharu** (founder of [[Pizzicato Five]]) and **Oyamada Keigo** (founder of Flipper's Guitar and later known as [[Cornelius]]), both avid record collectors.
+The movement emerged from a rich culture of music collecting and consumption enabled by the opening of flagship record stores—HMV, Tower Records, Wave, and Shinseido—which provided outlets for both Japanese and imported foreign music. Two key figures regarded as most influential in the movement's emergence were **Konishi Yasuharu** (founder of [[pizzicato-five]]) and **Oyamada Keigo** (founder of Flipper's Guitar and later known as [[Cornelius]]), both avid record collectors.
 
 ## Musical Characteristics
 
@@ -35,7 +32,7 @@ Shibuya-kei is defined by:
 
 ## Key Figures and Bands
 
-- [[Pizzicato Five]]: Fronted by the glamorous [[Nomiya Maki]]; iconic postmodern mélange of jazz, easy listening, Motown, disco
+- [[pizzicato-five]]: Fronted by the glamorous [[pizzicato-five]]; iconic postmodern mélange of jazz, easy listening, Motown, disco
 - [[Flipper's Guitar]]: Indebted to British indie-pop and neo-psychedelia
 - [[Cornelius]] (Oyamada Keigo): Later solo project; continuation of Shibuya-kei internationalism
 - [[Kahimi Karie]]: Shibuya-kei vocalist; lived in Paris; influenced by 1960s chanteuses
@@ -58,16 +55,16 @@ The movement was anchored by independent Japanese labels:
 The movement maintained close ties to British art-pop via [[él Records]] (Mike Alway, Philippe Auclair/Louis Philippe) and to French retro-pop aesthetics. Kahimi Karie's _Mike Alway's Diary_ was an homage to él Records founder; él Records artists such as The Monochrome Set were featured on Oyamada's Trattoria label compilation _Fab Gear_ (1991).
 
 ### US Distribution
-Outside Japan, Shibuya-kei was distributed across European and US indie labels: Paris (Tricatel), London (Cherry Red), Berlin (Bungalow), New York (Matador), Chicago (Minty Fresh), LA (Emperor Norton). [[Matador Records]] played a key role in popularizing [[Pizzicato Five]] for American audiences.
+Outside Japan, Shibuya-kei was distributed across European and US indie labels: Paris (Tricatel), London (Cherry Red), Berlin (Bungalow), New York (Matador), Chicago (Minty Fresh), LA (Emperor Norton). [[Matador Records]] played a key role in popularizing [[pizzicato-five]] for American audiences.
 
 ### New York Scene
-- [[Pizzicato Five]] performed at New York New Music Seminar (1992-1994)
+- [[pizzicato-five]] performed at New York New Music Seminar (1992-1994)
 - [[Cornelius]] debuted _Fantasma_ (1998) at South-by-Southwest
-- [[Towa Tei]] (Japanese-Korean DJ, formerly of Deee-Lite) promoted Shibuya-kei in NYC acid-jazz scene; collaborated with [[Nomiya Maki]]
+- [[Towa Tei]] (Japanese-Korean DJ, formerly of Deee-Lite) promoted Shibuya-kei in NYC acid-jazz scene; collaborated with [[pizzicato-five]]
 - [[Cibo Matto]]: Japanese expatriate group often associated with Shibuya-kei
 
 ### Brazil Connection
-Bossa nova holds a special place in Shibuya-kei due to Japan-Brazil historical migration links and shared aesthetic of romantic nostalgia ([[saudade]]). Contemporary collaboration: [[Nomiya Maki]] and Fernanda Takai (Pato Fu) released _Maki-Takai: No Jetlag_ (2009), performing in both Japanese and Portuguese.
+Bossa nova holds a special place in Shibuya-kei due to Japan-Brazil historical migration links and shared aesthetic of romantic nostalgia ([[saudade]]). Contemporary collaboration: [[pizzicato-five]] and Fernanda Takai (Pato Fu) released _Maki-Takai: No Jetlag_ (2009), performing in both Japanese and Portuguese.
 
 ## Historical Timeline
 
@@ -120,7 +117,7 @@ By 2004, Western critical consensus declared Shibuya-kei "dead" (David Marx's pe
 ## Related Concepts
 
 - [[Audiotopia]]: Josh Kun's term; simultaneously everywhere and nowhere; captures Shibuya-kei's transnational ubiquity
-- [[Transnational Soundscape]]: Roberts's framework for understanding Shibuya-kei as collaborative, deterritorialized
+- [[transnational-soundscape]]: Roberts's framework for understanding Shibuya-kei as collaborative, deterritorialized
 - [[Subculture Industry]]: Roberts's term; commercialization of subcultural aesthetics
 - [[J-pop]]: Broader category; Shibuya-kei as first J-pop form to gain wide international attention
 
@@ -130,4 +127,4 @@ Roberts, Martin (2013). "'A new stereophonic sound spectacular': Shibuya-kei as 
 
 ---
 
-See also: [[Pizzicato Five]], [[Cornelius]], [[Konishi Yasuharu]], [[Oyamada Keigo]], [[J-pop]], [[Music Culture (Japan)]], [[Bossa Nova]], [[Easy Listening]], [[Postmodernism]]
+See also: [[pizzicato-five]], [[Cornelius]], [[konishi-yasuharu]], [[Oyamada Keigo]], [[J-pop]], [[Music Culture (Japan)]], [[Bossa Nova]], [[Easy Listening]], [[Postmodernism]]

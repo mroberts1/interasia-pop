@@ -1,12 +1,10 @@
----
-title: Shueisha Inc.
-created: 2026-05-07
-updated: 2026-05-07
-type: entity
-tags: [studio, japan, publisher, production-company, media, industry]
-sources: [raw/papers/shinji-oyama.md]
-confidence: high
-contested: false
+Type: #type/person
+Area: #area/interasia-pop
+Keyword: #keyword/studio #keyword/japan #keyword/publisher #keyword/production-company #keyword/media #keyword/industry
+Date created: [[2026-05-07]]
+Updated: [[2026-05-07]]
+Sources: [[Oyama - Creative Labor in Japanese Media Industries]]
+
 ---
 
 ## Overview
@@ -89,7 +87,7 @@ Shueisha's manga and franchises have become integral to Asian popular culture ci
 - Southeast Asia
 - Global diaspora communities
 
-[[Weekly Shōnen Jump]] remains the primary driver of Shueisha's international influence.
+[[weekly-shonen-jump]] remains the primary driver of Shueisha's international influence.
 
 ## References
 

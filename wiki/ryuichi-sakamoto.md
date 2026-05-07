@@ -1,12 +1,10 @@
----
-title: Ryuichi Sakamoto
-created: 2026-05-07
-updated: 2026-05-07
-type: entity
-tags: [person, musician, composer, japan, ymo, experimental, film-score, electronic-music]
-sources: [raw/papers/mori-ymo.md]
-confidence: high
-contested: false
+Type: #type/person
+Area: #area/interasia-pop
+Keyword: #keyword/musician #keyword/composer #keyword/japan #keyword/ymo #keyword/experimental #keyword/film-score #keyword/electronic-music
+Date created: [[2026-05-07]]
+Updated: [[2026-05-07]]
+Sources: [[Mori - Japanese Gentlemen Stand Up Please - YMO Techno-orientalism (2026)]]
+
 ---
 
 ## Overview

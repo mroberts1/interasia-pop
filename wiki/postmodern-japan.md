@@ -1,12 +1,13 @@
----
-title: Postmodern Japan (1978–1985)
-created: 2026-05-07
-updated: 2026-05-07
-type: movement
-tags: [japan, postmodernism, cultural-studies, 1980s, subculture, consumer-culture, media, youth, aesthetics]
-sources: [raw/papers/mori-ymo.md]
-confidence: high
-contested: false
+Type: #type/concept
+Area: #area/interasia-pop
+Keyword: #keyword/japan #keyword/postmodernism #keyword/cultural-studies #keyword/1980s #keyword/subculture #keyword/consumer-culture #keyword/media #keyword/youth #keyword/aesthetics
+Date created: [[2026-05-07]]
+Updated: [[2026-05-07]]
+Sources: [[Mori - Japanese Gentlemen Stand Up Please - YMO Techno-orientalism (2026)]]
+Related:
+Contested: false
+Confidence: high
+
 ---
 
 ## Overview

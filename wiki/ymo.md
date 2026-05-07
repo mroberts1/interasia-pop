@@ -1,12 +1,10 @@
----
-title: Yellow Magic Orchestra (YMO)
-created: 2026-05-07
-updated: 2026-05-07
-type: entity
-tags: [band, japan, music, synth-pop, techno-pop, electronic-music, 1970s, 1980s, cultural-icon]
-sources: [raw/papers/mori-ymo.md]
-confidence: high
-contested: false
+Type: #type/person
+Area: #area/interasia-pop
+Keyword: #keyword/japan #keyword/music #keyword/synth-pop #keyword/techno-pop #keyword/electronic-music #keyword/1970s #keyword/1980s #keyword/cultural-icon
+Date created: [[2026-05-07]]
+Updated: [[2026-05-07]]
+Sources: [[Mori - Japanese Gentlemen Stand Up Please - YMO Techno-orientalism (2026)]]
+
 ---
 
 ## Overview

@@ -1,13 +1,13 @@
----
-title: Techno-Orientalism
-created: 2026-05-07
-updated: 2026-05-07
-type: concept
-tags: [theory, orientalism, representation, technology, east-asia, postmodernism, cultural-studies, soft-power]
-sources: [raw/papers/mori-ymo.md]
-referenced: ["Said, E. W. (1978). Orientalism.", "Morley, D., & Robins, K. (1995). Spaces of Identity."]
-confidence: high
-contested: false
+Type: #type/concept
+Area: #area/interasia-pop
+Keyword: #keyword/theory #keyword/orientalism #keyword/representation #keyword/technology #keyword/east-asia #keyword/postmodernism #keyword/cultural-studies #keyword/soft-power
+Date created: [[2026-05-07]]
+Updated: [[2026-05-07]]
+Sources: [[Mori - Japanese Gentlemen Stand Up Please - YMO Techno-orientalism (2026)]]
+Related:
+Contested: false
+Confidence: high
+
 ---
 
 ## Definition & Theoretical Framework

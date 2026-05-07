@@ -1,14 +1,35 @@
+Type: #type/source
+Tier: #source/peer-reviewed
+Area: #area/interasia-pop
+Keyword: #keyword/japan #keyword/japanese-pop-music
+Date created: [[2026-05-07]]
+Last verified: [[2026-05-07]]
+Source: Yoshitaka Mōri. "Japanese Gentlemen Stand Up Please: Yellow Magic Orchestra, Techno-orientalism and Postmodern culture in Japan". Chapter.
+Superseded by:
+
 ---
-title: "Japanese Gentlemen Stand Up Please: Yellow Magic Orchestra, Techno-orientalism and Postmodern culture in Japan"
-author: Yoshitaka Mōri
-source_type: chapter
-source_hash: ceddf2d27ee6238bcd6f9ac11ad77afd081fb22f96c02b512cbfa56035e9dae4
-extracted_date: 2026-05-07
-char_count: 30546
-word_count: 4324
-pages: ~15
-tags: [japan, music, synth-pop, techno-pop, ymo, yellow-magic-orchestra, techno-orientalism, postmodernism, cultural-studies, digital-culture, asia]
+
+**Summary**
+
+Mōri's chapter re-evaluates Yellow Magic Orchestra (YMO) within Japanese popular music and postmodern culture from 1978-1985. The argument: YMO should be read not just as a synth-pop band but as a cultural movement that deliberately deployed self-orientalisation strategies — the "techno cut" hairstyle, the mock-Chinese visual presentation, the performed Asian robot persona — as critical engagement with Western techno-Orientalist projection, not capitulation to it. The chapter offers a decolonial alternative to Western-centric synth-pop historiography.
+
+**Key points**
+
+- YMO formed 1978 by Hosono, Takahashi, Sakamoto; most critical period 1978-1983
+- "Techno-pop" is the Japanese-language term used in Japan, not "synth-pop"
+- Techno-Orientalism (Morley & Robins 1995) inverts classical Orientalism: East as hyper-modern/machine rather than premodern/exotic
+- YMO strategically deployed self-orientalisation as critical engagement, not accommodation
+- The band emerged just before Japan's bubble economy (1985-1992) and helped define its aesthetic
+- Members had substantial separate careers: Hosono in city pop, Sakamoto in experimental/film, Takahashi in fashion and city pop
+- Mōri argues YMO's influence on global electronic music is understudied due to Western historiographical bias
+
+**Claude's notes**
+
+This is the anchor source for YMO-related pages and the techno-Orientalism concept page. The 'self-orientalisation as critique' argument is the most contentious and will need corroboration — some cultural-studies scholars read it as ambiguous or accommodationist. Mōri is a strong primary voice on Japanese popular music. Pair with Shinji Oyama (industry/labor) and Roberts (Shibuya-kei) for coverage of overlapping 1978-1995 Japanese pop history.
+
 ---
+
+## Original extracted text
 
 # Japanese Gentlemen Stand Up Please: Yellow Magic Orchestra, Techno-orientalism and Postmodern culture in Japan
 
@@ -123,3 +144,4 @@ Yellow Magic Orchestra's rise to prominence during the late 1970s and early 1980
 YMO's legacy reveals the multifaceted nature of cultural exchange in the postmodern era. Their success in the West was shaped by a techno-Orientalist fascination, yet the band consistently subverted these expectations by producing music and imagery that were both ironic and innovative. While they eventually retreated from international touring, their influence remained enduring, particularly through their solo projects and their imprint on electronic music scenes worldwide.
 
 By understanding YMO not only as a band but as a cultural phenomenon, we see how their work encapsulates the broader shifts in Japanese society—from post-war recovery to consumer sophistication, from political activism to media-savvy cultural production. Their story challenges dominant Western narratives of synth-pop history and provides a decolonial framework through which to reinterpret the emergence of a globalized Japanese sound.
+

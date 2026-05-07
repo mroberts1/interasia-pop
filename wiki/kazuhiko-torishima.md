@@ -1,23 +1,21 @@
----
-title: Kazuhiko Torishima
-created: 2026-05-07
-updated: 2026-05-07
-type: entity
-tags: [person, editor, japan, shueisha, manga, creative-manager]
-sources: [raw/papers/shinji-oyama.md]
-confidence: high
-contested: false
+Type: #type/person
+Area: #area/interasia-pop
+Keyword: #keyword/editor #keyword/japan #keyword/shueisha #keyword/manga #keyword/creative-manager
+Date created: [[2026-05-07]]
+Updated: [[2026-05-07]]
+Sources: [[Oyama - Creative Labor in Japanese Media Industries]]
+
 ---
 
 ## Overview
 
-Kazuhiko Torishima is a legendary former editor-in-chief of [[Weekly Shōnen Jump]] renowned for his analytical rigor and methodological approach to manga editing. He is particularly famous for his mentorship of Akira Toriyama and the creation of "Dragon Ball," one of the world's highest-grossing media franchises.
+Kazuhiko Torishima is a legendary former editor-in-chief of [[weekly-shonen-jump]] renowned for his analytical rigor and methodological approach to manga editing. He is particularly famous for his mentorship of Akira Toriyama and the creation of "Dragon Ball," one of the world's highest-grossing media franchises.
 
 ## Career Overview
 
 ### Editorial Leadership
 
-- **Position:** Former editor-in-chief, [[Weekly Shōnen Jump]]
+- **Position:** Former editor-in-chief, [[weekly-shonen-jump]]
 - **Era:** Pivotal figure in WJ's development and success
 - **Approach:** Exemplifies "uncreativity" concept — methodical analysis and editorial precision
 
@@ -74,7 +72,7 @@ Torishima's approach embodies Chris Bilton's "uncreativity" concept:
 
 ### Professional Distinction
 
-- All 11 [[Weekly Shōnen Jump]] editors-in-chief recruited internally from within [[Shueisha]]
+- All 11 [[weekly-shonen-jump]] editors-in-chief recruited internally from within [[shueisha]]
 - Torishima exemplifies this internal promotion model
 - Career entirely within Shueisha; no external recruitment
 
@@ -114,7 +112,7 @@ Torishima's editorial practice:
 
 ### Japanese Employment System
 
-- Entire career at [[Shueisha]]; exemplifies [[Shukatsu]] internal promotion model
+- Entire career at [[shueisha]]; exemplifies [[shukatsu]] internal promotion model
 - Job security enabled long-term mentorship and high editorial standards
 - Lifetime employment allowed sustained investment in artist development without commercial pressure
 

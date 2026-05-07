@@ -7,9 +7,9 @@ type: meta
 
 # Inter-Asia Pop — Foundry Evaluation
 
-Stable questions that should be answerable from this wiki. Re-run on every `/foundry-eval`. Thin/missing findings feed back into `index.md` as Open Questions and Candidates.
+Stable questions that should be answerable from this wiki. Re-run on every `/foundry-eval`. Thin/missing findings feed back into `wiki/_meta/index.md` as Open Questions and Candidates.
 
-See `eval-usage.md` for how this document is actually used.
+See `wiki/_meta/eval-usage.md` for how this document is actually used.
 
 **Ratings:**
 - `strong` — wiki has the concepts and they cite ≥2 sources (ideally mixed tiers)

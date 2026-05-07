@@ -1,5 +1,28 @@
 # Inter-Asia Pop Wiki Log
 
+## [2026-05-07] migrate | Migrated vault to Foundry v2 structure
+
+- **From:** flat-dir (entities/, concepts/, genres/, movements/, regions/, timelines/, comparisons/, queries/, raw/) + SCHEMA.md + manifests/ reference bundle
+- **To:** inbox/, sources/, wiki/, wiki/_meta/ + single CLAUDE.md at root with v2 inline
+- **Sources migration (3):**
+  - raw/papers/mori-ymo.md → sources/Mori - Japanese Gentlemen Stand Up Please - YMO Techno-orientalism (2026).md. Tier: #source/peer-reviewed
+  - raw/papers/mroberts-shibuya-kei.md → sources/Roberts - Shibuya-kei and Transnational Soundscape.md. Tier: #source/primary (user's own academic paper)
+  - raw/papers/shinji-oyama.md → sources/Oyama - Creative Labor in Japanese Media Industries.md. Tier: #source/peer-reviewed
+  - All sources rewritten with v2 plain-key-value frontmatter (Tier:, Last verified:, Superseded by:) plus Summary / Key points / Claude's notes sections. Original extracted-text body preserved below the fold.
+- **Wiki pages migration (17):** all entity/concept/movement pages rewritten to v2 plain-key-value frontmatter and moved to wiki/. Type: assigned per v2 taxonomy — persons (musicians, editors, publishers) as #type/person, aesthetics/theories/movements/roles as #type/concept. Confidence: and Contested: preserved from old frontmatter where present.
+- **Wikilinks repaired:** Title-Case wikilinks rewritten to kebab-case filename stems (e.g. [[Yellow Magic Orchestra (YMO)]] → [[ymo]], [[Ryuichi Sakamoto]] → [[ryuichi-sakamoto]], [[Shibuya-kei]] → [[shibuya-kei]], [[Techno-Orientalism]] → [[techno-orientalism]], etc.). 13 pages touched. Orphan links (no matching page) left unchanged for user review.
+- **Filename convention:** kebab-case retained as per-vault override of v2 Title Case default; documented in CLAUDE.md.
+- **Meta files created:** wiki/_meta/index.md, wiki/_meta/log.md (this file, with pre-migration log appended below), wiki/_meta/eval.md (preserved from manifests/), wiki/_meta/eval-usage.md (preserved from manifests/).
+- **Binary artifacts preserved:** raw/papers/mori-ymo-revised.docx, raw/papers/mroberts-shibuya-kei.pdf, raw/papers/shinji-oyama.pdf moved to sources/ alongside the corresponding source notes.
+- **Removed:** SCHEMA.md (root), index.md (root), log.md (root), manifests/ directory entirely, entities/, concepts/, genres/ (empty), movements/, regions/ (empty), timelines/ (empty), comparisons/ (empty), queries/ (empty), raw/.
+- **Orphan wikilinks flagged (not pages yet, appearing in body text):** Hosono Haruomi, Happy End, City Pop, Cornelius, Kahimi Karie, Towa Tei, Kodansha, Shogakukan, Manga, J-pop, Orientalism, Postmodernism, Retromania, Simon Reynolds, Martin Roberts, Nick Currie, Momus, and several Shibuya-kei adjacents (Flipper's Guitar, Cibo Matto, Readymade Records, Crue-L Records, Trattoria, Bungalow Records). Each is a potential future page candidate per the 2-source rule.
+
+## [pre-migration log]
+
+*Historical log entries from before the v2 migration preserved below for provenance.*
+
+# Inter-Asia Pop Wiki Log
+
 > Chronological record of all wiki actions. Append-only.
 > Format: `## [YYYY-MM-DD] action | subject`
 > Actions: ingest, update, query, lint, create, archive, delete

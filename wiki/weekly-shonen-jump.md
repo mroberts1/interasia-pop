@@ -1,17 +1,15 @@
----
-title: Weekly Shōnen Jump
-created: 2026-05-07
-updated: 2026-05-07
-type: entity
-tags: [magazine, manga, japan, film, publication, media, cultural-export]
-sources: [raw/papers/shinji-oyama.md]
-confidence: high
-contested: false
+Type: #type/person
+Area: #area/interasia-pop
+Keyword: #keyword/magazine #keyword/manga #keyword/japan #keyword/film #keyword/publication #keyword/media #keyword/cultural-export
+Date created: [[2026-05-07]]
+Updated: [[2026-05-07]]
+Sources: [[Oyama - Creative Labor in Japanese Media Industries]]
+
 ---
 
 ## Overview
 
-Weekly Shōnen Jump (WJ) is the world's best-selling manga magazine and one of the most important publications in global popular culture. Published by [[Shueisha]], it targets young male readers (primarily ages 12–18) and is the home to some of the world's most iconic media franchises.
+Weekly Shōnen Jump (WJ) is the world's best-selling manga magazine and one of the most important publications in global popular culture. Published by [[shueisha]], it targets young male readers (primarily ages 12–18) and is the home to some of the world's most iconic media franchises.
 
 ## History & Circulation
 

@@ -1,21 +1,15 @@
----
-type: entity
-title: Konishi Yasuharu
-slug: konishi-yasuharu
-created: 2026-05-07
-tags:
-  - japan
-  - music
-  - shibuya-kei
-  - j-pop
-  - musician
-  - record-collector
-  - 1990s
+Type: #type/person
+Area: #area/interasia-pop
+Keyword: #keyword/japan #keyword/music #keyword/shibuya-kei #keyword/j-pop #keyword/musician #keyword/record-collector #keyword/1990s
+Date created: [[2026-05-07]]
+Updated: [[2026-05-07]]
+Sources: 
+
 ---
 
 # Konishi Yasuharu
 
-**Konishi Yasuharu** is a Japanese music collector, bandleader, and record label founder regarded as one of the most influential figures in the emergence of [[Shibuya-kei]]. As founder of [[Pizzicato Five]] and the independent label [[Readymade]], Konishi exemplifies the music collector ethos at the heart of the Shibuya-kei movement.
+**Konishi Yasuharu** is a Japanese music collector, bandleader, and record label founder regarded as one of the most influential figures in the emergence of [[shibuya-kei]]. As founder of [[pizzicato-five]] and the independent label [[Readymade]], Konishi exemplifies the music collector ethos at the heart of the Shibuya-kei movement.
 
 ## Background and Music Collecting
 
@@ -28,7 +22,7 @@ Konishi is characterized first and foremost as an **avid music collector**—a "
 
 ## Pizzicato Five: Iconic Band
 
-Konishi founded [[Pizzicato Five]] with frontwoman [[Nomiya Maki]]. The band became the most iconic exemplar of Shibuya-kei through:
+Konishi founded [[pizzicato-five]] with frontwoman [[pizzicato-five]]. The band became the most iconic exemplar of Shibuya-kei through:
 
 ### Musical Method
 - **Sampling and pastiche**: Reintroduction of pre-existing media (1960s easy listening, Motown, bossa nova, exotica, French pop, disco, club music)
@@ -118,11 +112,11 @@ Konishi Yasuharu represents:
 
 ## Related Figures and Entities
 
-- [[Pizzicato Five]]: Signature band; most iconic Shibuya-kei exemplar
-- [[Nomiya Maki]]: Lead vocalist; iconic face of Pizzicato Five and Shibuya-kei
+- [[pizzicato-five]]: Signature band; most iconic Shibuya-kei exemplar
+- [[pizzicato-five]]: Lead vocalist; iconic face of Pizzicato Five and Shibuya-kei
 - [[Oyamada Keigo]] / [[Cornelius]]: Parallel figure; founder of Flipper's Guitar and Trattoria label; similar music collector ethos
 - [[Readymade Records]]: Independent label; infrastructure for Shibuya-kei artists
-- [[Shibuya-kei]]: Movement Konishi helped define
+- [[shibuya-kei]]: Movement Konishi helped define
 - [[Philippe Auclair]]: British collaborator; él Records connection
 - [[Nick Currie]] / [[Momus]]: British cultural critic; promoter of Shibuya-kei
 
@@ -132,4 +126,4 @@ Roberts, Martin (2013). "'A new stereophonic sound spectacular': Shibuya-kei as 
 
 ---
 
-See also: [[Pizzicato Five]], [[Shibuya-kei]], [[Nomiya Maki]], [[Saudade do Futuro]], [[Happy-Sad Tonality]], [[Transnational Soundscape]], [[Readymade Records]]
+See also: [[pizzicato-five]], [[shibuya-kei]], [[pizzicato-five]], [[saudade-do-futuro]], [[Happy-Sad Tonality]], [[transnational-soundscape]], [[Readymade Records]]
