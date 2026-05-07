@@ -259,3 +259,99 @@
 - Academic positioning: Both authors engaging with English-language scholarship gaps; Mōri more explicit about decolonial perspective + postmodern theory
 - Future opportunity: Create synthesis pages connecting manga, music, fashion, film as unified postmodern Japan cultural movement (1978–1985)
 - Potential third ingest: Film (Merry Christmas, Mr. Lawrence), fashion (Kawakubo, Yamamoto), or advertising (Itoi, Seibu) to complete postmodern Japan picture
+## [2026-05-07] ingest | Roberts (2013) mroberts-shibuya-kei.pdf
+
+**Source:** Roberts, M. (2013). "'A new stereophonic sound spectacular': Shibuya-kei as transnational soundscape." _Popular Music_, 32(1), pp. 111-123. DOI: 10.1017/S026114301200058X
+
+**Format:** PDF → pdftotext → Markdown with YAML frontmatter
+
+**Size:** 488K PDF; 7,670 words extracted text; SHA256: cdaaa3b9f5c6c4d899fafdf1476433db02c5c61b75570ed1f165311146f881d9
+
+**Stored:** raw/papers/mroberts-shibuya-kei.md (frontmatter + full text)
+
+**Extracted Pages:** 5 wiki pages (entities: 3; concepts: 2)
+
+### Pages Created
+
+#### Entities (3 pages)
+
+1. **[[Shibuya-kei]]** (entities/shibuya-kei.md) — MAJOR PAGE
+   - Independent J-pop movement (late 1980s–1990s); originated Shibuya district, Tokyo
+   - Character: Ostentatious internationalism; postmodern pastiche; retro-futurism
+   - Musical eclecticism: Jazz, easy listening, bossa nova, 1960s French/British pop, exotica, Motown, disco
+   - Key figures: Konishi Yasuharu (Pizzicato Five), Oyamada Keigo (Flipper's Guitar / Cornelius), Nomiya Maki (vocalist)
+   - Independent labels: Readymade, Trattoria, Crue-L, Escalator
+   - Transnational networks: London (él Records), Paris (French pop), New York (Matador Records), Rio (bossa nova)
+   - Global influence: Pizzicato Five first J-pop to gain wide international attention
+   - Emotional signature: Happy-sad tonality; [[saudade]] + [[mono no aware]]; [[saudade do futuro]]
+   - Theoretical frame: [[Transnational Soundscape]] (Roberts); not purely Japanese but international co-production
+
+2. **[[Pizzicato Five]]** (entities/pizzicato-five.md) — MAJOR PAGE
+   - Flagship Shibuya-kei band; fronted by Nomiya Maki; founded by Konishi Yasuharu
+   - Sound: Postmodern pastiche of 1960s easy listening, Motown, disco, jazz; orchestral arrangements
+   - Visual aesthetics: French Nouvelle Vague references, 1960s fashion icons, space-age imagery
+   - Commercial success: First Japanese pop to gain wide international attention; Matador Records distribution
+   - Happy-sad tonality exemplar: [[saudade do futuro]]; yearning for 1960s techno-utopian futures
+   - Dissolution 2001; Pizzicato One (2011) post-anniversary project
+
+3. **[[Konishi Yasuharu]]** (entities/konishi-yasuharu.md) — MAJOR PAGE
+   - Music collector, bandleader, record label founder; seminal Shibuya-kei figure
+   - Philosophy: "Record collector first, musician second"; curation as cultural authority
+   - Pizzicato Five founder; Readymade Records founder
+   - Taste-making: "You are all consuming the wrong goods"; upper-middle-class educated audience
+   - British connections: Collaborated with [[Philippe Auclair]] (él Records)
+   - Pizzicato One (2011): Post-Tōhoku earthquake project; "very sad" cover songs
+
+#### Concepts (2 pages)
+
+1. **[[Transnational Soundscape]]** (concepts/transnational-soundscape.md) — MAJOR PAGE
+   - Theoretical framework (Roberts): Understanding music as ongoing international co-production
+   - De-territorialization: Not bound by national categories
+   - London-Paris-Tokyo-New York-Rio circuit: International label network + artist circulation
+   - Global Shibuya-kei: Neo-Shibuya-kei movements globally; web-based distribution
+   - Affect: [[Saudade]] + [[Mono no Aware]] + [[Saudade do Futuro]]; transnational affect circulation
+   - Challenges nationalist music historiography; resists Western exoticization
+
+2. **[[Saudade do Futuro]]** (concepts/saudade-do-futuro.md) — MAJOR PAGE
+   - Portuguese concept: "Nostalgia for the future"; paradoxical yearning for unfulfilled futures
+   - 1960s Techno-Utopian Promise: Space-age imagery, stereophonic technology, world fairs
+   - Pizzicato Five exemplar: "New stereophonic sound spectacular" sample; space aesthetics
+   - Happy-sad tonality: Joy + sadness that future never arrived; ironic postmodern affect
+   - Parallels: [[Saudade]] (Brazilian) + [[Mono no Aware]] (Japanese); transnational affect
+   - Bubble economy context: Reflects 1980s–1990s optimism; awareness of transience
+   - Pizzicato One (2011): Post-Tōhoku "very sad" covers; [[mono no aware]] as post-disaster affect
+
+### Statistics
+
+- **Total words extracted:** 7,670
+- **Pages created:** 5 (3 entities, 2 concepts)
+- **Wikilinks created:** 50+ cross-references
+- **Tags assigned:** 25+ unique tags
+- **Source type:** Peer-reviewed journal article (Popular Music, Cambridge University Press)
+- **SHA256 verification:** Complete
+
+### Index Updated
+
+- Total page count: 25 pages (from 20)
+- Added: Konishi Yasuharu, Nomiya Maki (entities); Pizzicato Five, Readymade Records (labels)
+- Added: Shibuya-kei (music genres); Transnational Soundscape, Saudade do Futuro (concepts)
+
+### Cross-Wiki Integration
+
+**Connections to Previous Ingests (Oyama 2024, Mōri 2026):**
+
+1. Temporal overlap: Shibuya-kei emergence (late 1980s) coincides with Postmodern Japan (1978–1985) final phase
+2. Postmodern ethos: Shibuya-kei exemplifies postmodern Japan cultural shift; parallels YMO
+3. Soft power & regional circulation: Shibuya-kei as early J-pop soft power export; parallel to manga franchises + YMO
+4. Happy-sad affect: Shibuya-kei's emotional signature parallels postmodern Japan sensibility; [[mono no aware]]
+5. Internationalism & de-Westernization: Japanese artists engaging Western traditions while establishing autonomous aesthetic
+6. Academic gap: All three ingests address understudied phenomena despite global cultural influence
+
+### Observations
+
+- Roberts (2013) is sophisticated musicology article; emphasizes theoretical framework ([[Transnational Soundscape]])
+- Complements Mōri (cultural/aesthetic analysis) with music-specific circulation theory
+- Addresses similar academic gaps: Understudied despite importance; challenges Western frameworks
+- Strong conceptual synergy: Three ingests cohere around postmodern Japan (1978–1985+) as foundational moment
+- Affect-based approach offers new analytical lens for transnational music circulation
+- Third ingest completes music-media-industry picture; sets stage for expanded ingests on fashion, film, advertising

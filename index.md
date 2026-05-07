@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-07 | Total pages: 20
+> Last updated: 2026-05-07 | Total pages: 25
 
 ## Entities
 
@@ -12,12 +12,16 @@
 - [[Kazuhiko Torishima]] - Legendary manga editor; mentored Akira Toriyama; exemplifies editorial rigor
 - [[Ryuichi Sakamoto]] - YMO keyboardist; experimental composer; film scoring pioneer; formal classical training
 - [[Yellow Magic Orchestra (YMO)]] - Pioneering synth-pop/techno-pop band (1978–1983); cultural icons of postmodern Japan
+- [[Konishi Yasuharu]] - Music collector; founder of Pizzicato Five and Readymade label; seminal Shibuya-kei figure
+- [[Nomiya Maki]] - Lead vocalist of Pizzicato Five; iconic embodiment of Shibuya-kei aesthetics; glamorous 1960s style icon
 
 ### Studios, Labels & Companies
 
 - [[Shueisha Inc.]] - Japan's third-largest publisher; home of Weekly Shōnen Jump; $1.8B revenue
 - [[Weekly Shōnen Jump]] - World's best-selling manga magazine; home to Dragon Ball, One Piece, Chainsaw Man
 - [[Manga Editor]] - Creative manager role; permanent employment; bridges executives and mangaka
+- [[Pizzicato Five]] - Flagship Shibuya-kei band; postmodern pastiche of 1960s easy listening, Motown, bossa nova, jazz
+- [[Readymade Records]] - Konishi Yasuharu's independent label; distribution platform for Shibuya-kei artists
 
 ### Platforms & Infrastructure
 
@@ -32,6 +36,7 @@
 ### Music Genres & Movements
 
 - [[Postmodern Japan (1978–1985)]] - Political-to-cultural shift; hybridity, pastiche, irony; YMO as epitome; pre-bubble economy era
+- [[Shibuya-kei]] - Independent J-pop movement (late 1980s-1990s); eclectic internationalism; transnational soundscape; happy-sad affect
 
 ## Movements & Concepts
 
@@ -39,6 +44,8 @@
 - [[Shukatsu (Japanese Graduate Recruitment)]] - Formalized nationwide system; elite university graduates; 200:1 competition
 - [[Techno-Orientalism]] - Postmodern Orientalism; East Asia as hyper-modern, emotionless, technologically threatening; self-orientalisation strategy
 - [[Uncreativity]] (concept: Chris Bilton) - Methodical editorial guidance; stability as counterbalance to innovation; manga production exemplar
+- [[Transnational Soundscape]] - Framework for understanding Shibuya-kei as international co-production; music not bound by national categories
+- [[Saudade do Futuro]] - "Nostalgia for the future"; Portuguese concept; yearning for 1960s techno-utopian promises unfulfilled; core affect of Shibuya-kei
 
 ## Timelines
 
